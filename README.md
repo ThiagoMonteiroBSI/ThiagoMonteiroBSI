@@ -1,17 +1,17 @@
 <div align="center">
   <h1>👋 Olá, eu sou Thiago!</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <em>Desenvolvedor(a) Full Stack | Apaixonado(a) por Código & Inovação</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3qDm/giphy.gif" width="30px"> <em>Desenvolvedor(a) Full Stack | Apaixonado(a) por Código & Criatividade</em> <img src="https://media.giphy.com/media/26gsjCZpPolPr3qDm/giphy.gif" width="30px">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Seu+Banner+Aqui+(Crie+no+Canva!)" width="100%" alt="Banner">
+  <img src="https://i.imgur.com/6Qv3Y8G.png" width="100%" alt="Banner Tech">
 </div>
 
-> "Code é poesia que faz o mundo girar." 
+> "O código é a ponte entre o imaginário e o real." - Thiago - 2022
 
-Sou um(a) **desenvolvedor(a) Full Stack em Andamento** que transforma ideias em soluções digitais. Adoro criar aplicações web e mobile com um toque de criatividade, usando tecnologias como **HTML, CSS, React Native, SQL, Django e Python**. Aqui no GitHub, você vai encontrar meus projetos, experimentos e um pedacinho da minha paixão por tecnologia!
+Sou um(a) **desenvolvedor(a) Full Stack** que adora construir soluções digitais incríveis. Trabalho com **HTML, CSS, React Native, SQL, Django e Python**, criando desde interfaces elegantes até sistemas robustos. Aqui no GitHub, você vai ver um pouco da minha paixão por tecnologia e inovação!
 
 ---
 
@@ -26,36 +26,29 @@ Sou um(a) **desenvolvedor(a) Full Stack em Andamento** que transforma ideias em 
 </div>
 
 ### O que eu faço?
-- 🌐 **Front-end:** Interfaces responsivas e modernas com HTML, CSS e React Native.  
-- ⚙️ **Back-end:** APIs robustas e sistemas escaláveis com Django e Python.  
-- 🗄️ **Banco de Dados:** Modelagem e queries otimizadas em SQL.  
-- 🚀 **Extra:** Sempre explorando novas ferramentas e frameworks!
-
----
-
-
----
-
-## 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</div>
+- 🌐 **Front-end:** Interfaces modernas e responsivas com HTML, CSS e React Native.  
+- ⚙️ **Back-end:** APIs poderosas com Django e Python.  
+- 🗄️ **Banco de Dados:** Queries otimizadas e modelagem com SQL.  
+- 🚀 **Paixão:** Transformar ideias em código funcional!
 
 ---
 
 ## 🎨 Um Pouco Sobre Mim
-- **Hobby favorito:** [ex.: "Jogar videogame e assistir séries"]  
-- **Bebida oficial:** ☕ Café forte ou 🍵 Chá verde  
-- **Fato curioso:** [ex.: "Já fiz um app só pra lembrar meus horários de estudo!"]  
-- **Sonho tech:** Criar um app que viralize mundialmente!  
+- **Hobby favorito:** Jogar videogame e explorar novas techs.  
+- **Bebida oficial:** ☕ Café preto sem açúcar.  
+- **Fato curioso:** Já passei a noite debugando só pra entender um erro bobo!  
+- **Sonho tech:** Criar algo que mude o dia a dia das pessoas.  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2b3wNyvjQ0Sc/giphy.gif" width="200" alt="GIF divertido">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="GIF Coding">
 </div>
 
 ---
 
+## 🌟 Minhas Ferramentas Favoritas
+- **Editor:** VS Code com tema escuro (obviamente!).  
+- **Framework:** Django pra back, React Native pra mobile.  
+- **Estilo:** CSS puro ou com Tailwind, dependendo do humor.  
 
 ---
 
@@ -69,14 +62,16 @@ Sou um(a) **desenvolvedor(a) Full Stack em Andamento** que transforma ideias em 
 ---
 
 ## ⚡ Fun Fact Tech
+> "Sabia que o primeiro 'bug' foi um inseto real preso em um computador nos anos 40?"
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="GIF Bug">
 </div>
 
 ---
 
 <div align="center">
   <h3>Obrigado por visitar meu perfil! 🌟</h3>
-  <p>Se curtiu algo aqui, dá uma ⭐ nos meus repositórios ou me chama pra trocar uma ideia sobre código!</p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="GIF de despedida">
+  <p>Se curtiu o que viu, me chama pra trocar uma ideia sobre tech ou café!</p>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="GIF Bye">
 </div>
